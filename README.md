@@ -4,6 +4,9 @@ save it in particular directory and that video will get uploaded to your youtube
 
 
 Tools Used:
+   
     WatchDog Python Lib
+    
     Youtube Data API
+    
     Some google pyhton lib (check them out on their website)
